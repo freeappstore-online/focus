@@ -1,6 +1,0 @@
-{
-  "appId": "focus",
-  "applicationRoot": "web",
-  "outputPath": "web/dist",
-  "buildCommand": "pnpm build"
-}
